@@ -1,0 +1,9 @@
+torch 
+torchvision 
+pandas 
+numpy==1.24.4
+matplotlib
+scikit-learn 
+tensorflow==2.16.1
+opencv-python
+syft==0.8.7
